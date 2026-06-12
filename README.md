@@ -1,12 +1,6 @@
-# Working Group Template
+# Species interaction network topologies
 
-This repository is a template for ESIIL Working Groups.
-
-This template is designed as one connected system:
-
-- The repository is where the science happens.
-- The website is where the science is shared.
-- GitHub connects them through commits, version history, and publishing.
+Climate change and human disturbance are rapidly transforming plant communities. Yet, we still struggle to recognize when and how ecological communities are reorganizing. This working group will create new ways to detect these hidden transformations by studying the networks of relationships that link species together. Instead of looking only at which plants are present or how much ground they cover, we focus on the web of connections that keep ecosystems functioning--and how these connections shift under stress. Around the world scientists have been collecting detailed records of plant communities for decades, but these rich datasets haven’t been used to understand the relationships among species. By combining decades of long-term vegetation data from drought, grazing, nutrient, and climate experiments we will ask: do similar environmental pressures trigger similar patterns of ecological reorganization?
 
 ## How this repository is organized
 

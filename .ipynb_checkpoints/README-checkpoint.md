@@ -103,8 +103,3 @@ Warnings do not prevent the site from publishing. They are intended to help Work
 ## GitHub Pages
 
 This site is automatically built and deployed using GitHub Actions.
-
-## TO DO
-
-- [ ] Decide on how we want to use this repo
-- [ ] Decide on roles
