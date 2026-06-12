@@ -1,8 +1,8 @@
 # Home
-This is a template.
+
 ## Working Group Title
 
-Working Group Title
+**Tracking vegetation transformations through network topology shifts**
 
 This working group runs as a single system: a GitHub repository where environmental data science is organized, analyzed, and versioned, and a public website where results are explained and shared with the community.
 
