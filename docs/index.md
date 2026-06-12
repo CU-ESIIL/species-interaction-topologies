@@ -8,8 +8,8 @@ This working group runs as a single system: a GitHub repository where environmen
 
 As the working group progresses, the repository becomes the reproducible record of the science, and the website becomes the public report.
 
-[Edit this homepage in GitHub](https://github.com/CU-ESIIL/Working_group_OASIS/edit/main/docs/index.md){ .md-button .md-button--secondary }
-[Open the GitHub repository](https://github.com/CU-ESIIL/Working_group_OASIS){ .md-button }
+[Edit this homepage in GitHub](https://github.com/CU-ESIIL/species-interaction-topologies/edit/main/docs/index.md){ .md-button .md-button--secondary }
+[Open the GitHub repository](https://github.com/CU-ESIIL/species-interaction-topologies){ .md-button }
 
 ![Placeholder image for the homepage overview][slot-hero]{ .homepage-hero }
 
@@ -17,7 +17,7 @@ As the working group progresses, the repository becomes the reproducible record 
 
 ## Working Group Abstract
 
-Add an overview of who your group is, why you have come together and what questions you are answering. This is very similar to your working group description on the esiil website.
+Climate change and human disturbance are rapidly transforming plant communities. Yet, we still struggle to recognize when and how ecological communities are reorganizing. This working group will create new ways to detect these hidden transformations by studying the networks of relationships that link species together. Instead of looking only at which plants are present or how much ground they cover, we focus on the web of connections that keep ecosystems functioning--and how these connections shift under stress. Around the world scientists have been collecting detailed records of plant communities for decades, but these rich datasets haven’t been used to understand the relationships among species. By combining decades of long-term vegetation data from drought, grazing, nutrient, and climate experiments we will ask: do similar environmental pressures trigger similar patterns of ecological reorganization?
 
 ## Start Here
 
@@ -130,7 +130,8 @@ Related landmark: WG-A People and roles.
 
 | Name | Role | Institution | Responsibilities |
 | --- | --- | --- | --- |
-| Dusty Gannon | Technical Lead | Oregon State University | Research and Manage computational workflows and compute resources |
+| Katy Suding | PI | University of Colorado, Boulder | Guide science |
 | Annie Meader | Group Lead | University of Colorado, Boulder | Simulations, model testing and validation |
+| Dusty Gannon | Technical Lead | Oregon State University | Research and Manage computational workflows and compute resources |
 
 --8<-- "_generated/image_slots.md"
