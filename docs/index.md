@@ -130,7 +130,7 @@ Related landmark: WG-A People and roles.
 
 | Name | Role | Institution | Responsibilities |
 | --- | --- | --- | --- |
-| Name | Role | Institution | Responsibilities |
-| Name | Role | Institution | Responsibilities |
+| Dusty Gannon | Technical Lead | Oregon State University | Research and Manage computational workflows and compute resources |
+| Annie Meader | Group Lead | University of Colorado, Boulder | Simulations, model testing and validation |
 
 --8<-- "_generated/image_slots.md"
