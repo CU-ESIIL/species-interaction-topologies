@@ -55,3 +55,4 @@ rsconnect/
 node_modules/
 site/
 test-results/
+.positai

@@ -1,19 +1,16 @@
 # Home
 
-## Working Group Title
-
-**Tracking vegetation transformations through network topology shifts**
+## Working Group: Tracking vegetation transformations through network topology shifts
 
 This working group runs as a single system: a GitHub repository where environmental data science is organized, analyzed, and versioned, and a public website where results are explained and shared with the community.
 
 As the working group progresses, the repository becomes the reproducible record of the science, and the website becomes the public report.
 
-[Edit this homepage in GitHub](https://github.com/CU-ESIIL/species-interaction-topologies/edit/main/docs/index.md){ .md-button .md-button--secondary }
-[Open the GitHub repository](https://github.com/CU-ESIIL/species-interaction-topologies){ .md-button }
+[Edit this homepage in GitHub](https://github.com/CU-ESIIL/species-interaction-topologies/edit/main/docs/index.md){.md-button .md-button--secondary} [Open the GitHub repository](https://github.com/CU-ESIIL/species-interaction-topologies){.md-button}
 
-![Placeholder image for the homepage overview](assets/images/slots/hero/hero-image-placeholder.png){ .homepage-hero }
+![Placeholder image for the homepage overview](assets/images/slots/hero/hero-image-placeholder.png){.homepage-hero}
 
---8<-- "_generated/slot_notes/hero.md"
+--8\<-- "\_generated/slot_notes/hero.md"
 
 ## Working Group Abstract
 
@@ -21,15 +18,13 @@ Climate change and human disturbance are rapidly transforming plant communities.
 
 ## Start Here
 
-1. Replace the title and summary with the working group question, the community or scientific need, and the main outputs the group expects to produce.
-2. Add or link the datasets, working documents, and references your group will use.
-3. Run or adapt at least one analysis workflow and record decisions in the repository.
-4. Commit figures, tables, notes, and summaries so the work is versioned and reproducible.
-5. Use the website to share progress, methods, and results with collaborators and community audiences.
+1.  Replace the title and summary with the working group question, the community or scientific need, and the main outputs the group expects to produce.
+2.  Add or link the datasets, working documents, and references your group will use.
+3.  Run or adapt at least one analysis workflow and record decisions in the repository.
+4.  Commit figures, tables, notes, and summaries so the work is versioned and reproducible.
+5.  Use the website to share progress, methods, and results with collaborators and community audiences.
 
-[Plan the work](work-plan.md){ .md-button }
-[Document data and resources](how-this-group-works.md#data){ .md-button .md-button--secondary }
-[Set community expectations](community-care.md){ .md-button .md-button--secondary }
+[Plan the work](work-plan.md){.md-button} [Document data and resources](how-this-group-works.md#data){.md-button .md-button--secondary} [Set community expectations](community-care.md){.md-button .md-button--secondary}
 
 ## Working Group Landmarks
 
@@ -37,14 +32,14 @@ Use these lightweight labels to connect work sessions, meeting notes, and homepa
 
 WG-A People and roles; WG-B Question and scope; WG-C Data and access; WG-D Methods and workflows; WG-E Results and synthesis; WG-F Outputs and handoff.
 
-[Use the landmark guide](instructions/working-group-landmarks.md){ .md-button .md-button--secondary }
+[Use the landmark guide](instructions/working-group-landmarks.md){.md-button .md-button--secondary}
 
 ## How This Repo Is Organized
 
 The repository has two connected layers. Top-level files configure the project and its automation. The `docs/` folder contains the website content. `mkdocs.yml` tells MkDocs how to turn that content into the public site. Analysis folders hold the working scientific materials that generate the results shown on the website.
 
 | Part of the repo | What it does | What usually belongs there |
-| --- | --- | --- |
+|------------------------|------------------------|------------------------|
 | Top-level files and folders | Configure the project and keep shared repository guidance in one place | `README.md`, `LICENSE`, workflows, containers, templates, environment setup, and repo-wide metadata |
 | `docs/` | Stores the source content for the public website | Homepage text, summaries, methods, community-facing documentation, and website assets |
 | `mkdocs.yml` | Controls how the site is rendered | Navigation, theme settings, plugins, and GitHub edit links |
@@ -52,9 +47,13 @@ The repository has two connected layers. Top-level files configure the project a
 
 ## Repository Side: Do the Science
 
-![Placeholder image for the repository side of the workflow][slot-repository-side]{ .slot-button-image }
+<!--
 
---8<-- "_generated/slot_notes/repository-side.md"
+![Placeholder image for the repository side of the workflow][slot-repository-side]
+
+--8\<-- "\_generated/slot_notes/repository-side.md"
+
+-->
 
 Related landmarks: WG-C Data and access; WG-D Methods and workflows.
 
@@ -68,9 +67,13 @@ The repository is the working record of the group: it tracks what changed, why i
 
 ## Website Side: Share the Science
 
-![Placeholder image for the website side of the workflow][slot-website-side]{ .slot-button-image }
+<!--
 
---8<-- "_generated/slot_notes/website-side.md"
+![Placeholder image for the website side of the workflow][slot-website-side]
+
+--8\<-- "\_generated/slot_notes/website-side.md"
+
+-->
 
 Related landmarks: WG-E Results and synthesis; WG-F Outputs and handoff.
 
@@ -98,40 +101,50 @@ A working group is live when:
 
 For guidance on turning this scaffold into a public scientific record, see the [Public-Facing Site Guide](public-facing-site-guide.md).
 
+<!--
+
 ## Early Process Gallery
 
 Use this section to show how the working group gets started without manually editing image links one by one.
 
---8<-- "_generated/galleries/root/start-here/index.md"
+--8\<-- "\_generated/galleries/root/start-here/index.md"
 
-## Key Links to Replace
+-->
 
-Use this section for the links your group will actually maintain. Replace each placeholder with the working document, repository resource, dataset hub, or output page that your collaborators should use.
+## Key Links
 
-- Main Working Document: [link]
-- GitHub Repository: [link]
+- Main Working Document: <https://github.com/CU-ESIIL/species-interaction-topologies/blob/main/docs/index.md>
+- GitHub Repository: <https://github.com/CU-ESIIL/species-interaction-topologies>
 - Data / Resources: [link]
 - Outputs / Dashboard: [link]
 
 ## Current Phase
 
-Working Phase: Preparing for Meeting 1  
-(Replace this line with the phase your group is actually in, such as working asynchronously, preparing outputs, or revising a manuscript.)
+Working Phase: Preparing for Meeting 1 and collaborating remotely
 
 ## Team Members
 
-Replace this table with names, roles, institutions, and responsibilities so new collaborators know who is doing what.
-
 Related landmark: WG-A People and roles.
 
-![Placeholder image representing collaboration and group identity][slot-group-photo]{ .section-image }
 
---8<-- "_generated/slot_notes/group-photo.md"
+<!--
+![Placeholder image representing collaboration and group identity][slot-group-photo]{ .section-image }
+-->
+
+
+--8\<-- "\_generated/slot_notes/group-photo.md"
 
 | Name | Role | Institution | Responsibilities |
-| --- | --- | --- | --- |
+|------------------|------------------|------------------|------------------|
 | Katy Suding | PI | University of Colorado, Boulder | Guide science |
 | Annie Meader | Group Lead | University of Colorado, Boulder | Simulations, model testing and validation |
+| Lauren Shoemaker | Co-PI | University of Wyoming | Science |
+| Lauren Hallett | Co-PI | University of Oregon | Science |
+| Topher Weiss-Lehman | Co-PI | University of Wyoming | Science |
+| Chhaya Werner | Co-PI | Southern Oregon University | Science |
+| Megan Szojka | Post-doc |  | Science |
+| Jasmin Albert | PhD Candidate | University of Oregon | Science |
+| Sage Ellis | PhD Student | University of Wyoming | Science |
 | Dusty Gannon | Technical Lead | Oregon State University | Research and Manage computational workflows and compute resources |
 
---8<-- "_generated/image_slots.md"
+--8\<-- "\_generated/image_slots.md"
