@@ -11,7 +11,7 @@ As the working group progresses, the repository becomes the reproducible record 
 [Edit this homepage in GitHub](https://github.com/CU-ESIIL/species-interaction-topologies/edit/main/docs/index.md){ .md-button .md-button--secondary }
 [Open the GitHub repository](https://github.com/CU-ESIIL/species-interaction-topologies){ .md-button }
 
-![Placeholder image for the homepage overview][slot-hero]{ .homepage-hero }
+![Placeholder image for the homepage overview](assets/images/slots/hero/hero-image-placeholder.png){ .homepage-hero }
 
 --8<-- "_generated/slot_notes/hero.md"
 
